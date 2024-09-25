@@ -13,7 +13,7 @@ export const Review = () => {
     <div className="relative lg:py-28 md:py-16 py-10 w-full space-y-4">
     <h1 className="lg:text-6xl md:text-5xl text-2xl text-center text-orange uppercase">
    Customer
-      <span className="text-orange-600 font-serif"> Rating</span>
+      <span className="text-orange-600 font-serif"> Ratisdfng</span>
     </h1>
     </div>
     <ReviewCard
